@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Каталог книг</string>
+    <string name="title_movies">Книги</string>
+    <string name="title_directors">Авторы</string>
+    <string name="menu_item_delete_list_data">Удалить все</string>
+    <string name="menu_item_re_create_database">Создать БД</string>
+    <string name="movie_title">Название книги</string>
+    <string name="movie_director">Автор</string>
+    <string name="director_full_name">Полное имя автора</string>
+    <string name="dialog_movie_title">Книга</string>
+    <string name="dialog_director_title">Автор</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+</resources>
